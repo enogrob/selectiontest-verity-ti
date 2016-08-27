@@ -12,7 +12,11 @@ This Specialization covers required topics to fullfil the preparation for the in
 
 ## Courses
 ```
-[]quick-start-flask
-[]quick-start-git-flow
-[]quick-start-puppet
+[ ] sty-javascript-in-24-hours
+[ ] quick-start-flask
+[x] quick-start-git-flow
+[x] quick-start-puppet
+[ ] learning-flask
+[ ] angular2-and-nodejs
+[ ] jumpstart-nodejs
 ```
