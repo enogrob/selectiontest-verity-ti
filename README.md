@@ -10,13 +10,16 @@ Solution Integrator Experienced - Certified by Ericsson
 
 This Specialization covers required topics to fullfil the preparation for the interview.
 
-## Courses
+<img src="images/screenshot.png" alt="Drawing" style="width: 600px;"/>
+
+## Topics
 ```
 [ ] sty-javascript-in-24-hours
-[ ] quick-start-flask
-[x] quick-start-git-flow
+[ ] sty-python-in-24-hours
+[ ] real-time-apps-with-nodejs
 [x] quick-start-puppet
+[x] quick-start-git-flow
 [ ] learning-flask
 [ ] angular2-and-nodejs
-[ ] jumpstart-nodejs
+
 ```
